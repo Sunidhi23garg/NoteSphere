@@ -59,13 +59,13 @@ Electron will open the desktop app
 
 Once the app is packaged with Electron Builder, you can run it as a standalone Windows executable:  
 
+1. Build the frontend:
 ```bash
-Build the frontend:
 npm run build --prefix frontend
 ```
 
+2. Package the app:
 ```bash
-Package the app:
 npm run dist
 ```
 Once packaged, navigate to the dist folder and double-click the .exe to run the app without needing Node.js or dev tools.  
@@ -92,5 +92,5 @@ Add search, tagging, and filtering functionality.
 Provide cross-platform builds for MacOS and Linux.  
 
 ## Contact
-Sunidhi Garg
+Sunidhi Garg  
 GitHub: https://github.com/Sunidhi23garg
