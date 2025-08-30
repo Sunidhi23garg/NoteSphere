@@ -1,0 +1,12 @@
+.dashboard { padding: 20px; }
+.add-note { margin-bottom: 20px; }
+.add-note input, .add-note textarea { width: 100%; margin:5px 0; padding:8px; }
+.add-note button { padding:8px 12px; margin-top:5px; }
+.notes-list { display: flex; flex-direction: column; gap:10px; }
+.note-card { border:1px solid #ccc; padding:10px; border-radius:5px; }
+.note-actions { display:flex; gap:5px; margin-top:5px; }
+.note-actions button { padding:5px 10px; }
+
+.settings-page { padding:20px; }
+.settings-page .setting { margin-bottom:15px; }
+.settings-page label { margin-right:10px; }
