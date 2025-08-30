@@ -36,22 +36,23 @@ npm install
 cd backend && node server.js
 cd ../frontend && npm start
 ```
-3. Run the app (dev mode)
+3. Run the app  
 Frontend runs on http://localhost:3000  
 Backend runs on http://localhost:5000  
 Electron will open the desktop app   
 
-📸 Screenshots  
-🔑 Login Page   
+## Screenshots    
+
+- 🔑 Login Page   
 <img width="616" height="539" alt="Screenshot 2025-08-30 112456" src="https://github.com/user-attachments/assets/2cff344e-b7a7-4606-9e16-6aef611dba73" />
 
-🆕 Register Page  
+- 🆕 Register Page  
 <img width="605" height="546" alt="Screenshot 2025-08-30 112507" src="https://github.com/user-attachments/assets/224f7f04-a005-4ebf-9430-d5e5e2db495f" />
 
-📝 Notes Dashboard  
+- 📝 Notes Dashboard  
 <img width="1892" height="815" alt="Screenshot 2025-08-30 112252" src="https://github.com/user-attachments/assets/4138e3df-046a-46ec-be2d-6120f637e833" />
 
-➕ Add Note  
+- ➕ Add Note  
 <img width="1569" height="584" alt="Screenshot 2025-08-30 112328" src="https://github.com/user-attachments/assets/0ac00893-0d1a-49b5-9369-b122b1c29394" />
 
 
