@@ -1,14 +1,14 @@
 # NoteSphere
 
 NoteSphere is a secure and user-friendly desktop note-taking application built with **Electron**, **React**, and **Node.js**.  
-It allows users to **register, log in, create, and manage notes** seamlessly, with local storage and backend sync.
+It allows users to **register, log in and create notes** seamlessly, with local storage and backend sync.
 
 ---
 
 ## Features
 
 - **User Authentication** (Register / Login)  
-- **Create, edit, and delete notes**  
+- **Create notes**  
 - **Local storage + server sync**  
 - **Secure communication with backend**  
 - **Cross-platform desktop app**  
